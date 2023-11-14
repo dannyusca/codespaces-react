@@ -10,7 +10,8 @@ function App() {
         </p>
         <p className="small">
           Edit <code>src/App.js</code> and save to reload.
-        </p>
+                  </p>
+        <span>hola en remoto</span>
         <p>
           <a
             className="App-link"
